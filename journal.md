@@ -15,3 +15,4 @@ created_at: "2025-5-24"
 ### Day 2: 2025-05-25 (3.5 hours):
 - finished with the z axis and the 2 additional axes.
 ![image](https://github.com/user-attachments/assets/7d41c28a-d90e-495c-a44a-b6fa12e08263)
+![image](https://github.com/user-attachments/assets/15651939-7101-4acf-a70d-8ebe651309fc)
