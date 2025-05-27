@@ -28,3 +28,8 @@ created_at: "2025-5-24"
 
 ### Day 4: 2025-05-27 (4 hour):
 - finished the toolhead. using E3D's revo.
+- done with most of the xy stuff, the brackets remain.
+- toolhead looks drippedd outtt
+![image](https://github.com/user-attachments/assets/2ee45f59-4d78-4441-a767-8d01bbbedf12)
+![image](https://github.com/user-attachments/assets/301d7bc5-e30c-4fe2-8a78-ffc012535a4d)
+
