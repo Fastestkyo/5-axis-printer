@@ -24,3 +24,7 @@ created_at: "2025-5-24"
 ![image](https://github.com/user-attachments/assets/2e67928f-3947-4a5f-8ec8-3e9aada096cc)
 - Did some research on editing gcode and using mmu, https://www.reddit.com/r/prusa3d/comments/1857m0h/guide_poor_mans_multi_material_what_to_edit_in/
 - As there are no multiple color thing in 5 axis slicers (new tech), we will have to edit the gcode ourselves. this can be done by using coding languages, like python or smtn.
+
+
+### Day 4: 2025-05-27 (4 hour):
+- finished the toolhead. using E3D's revo.
