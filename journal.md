@@ -36,3 +36,7 @@ created_at: "2025-5-24"
 ### Day 5: 2025-05-28 (2 hours):
 - kinda finished with the [BOM](https://1drv.ms/x/c/a3f42e945c9caa44/EbQFKpQWxlxJoD3NqtjWvSIBQ96Bu_KVVyi092GPrF79ng?e=FsEQ5S).
 - did research on mmu -  [I Made a DIY AMS Using Old 3D Printer Parts](https://www.youtube.com/watch?v=s264WtPAhXw)  [Multicolor 3D Printing For LESS Than $50](https://www.youtube.com/watch?v=Vwb8Z4V4yuk) [4x 3d printer simple MMU design TetraFlow MMU](https://www.youtube.com/watch?v=IvIK14vktVs)
+
+### Day 5: 2025-05-28 (3 hours):
+- finally finished with the 3d model!
+![image](https://github.com/user-attachments/assets/b76f9fa2-87ed-4ca0-a9d9-5040453b1264)
