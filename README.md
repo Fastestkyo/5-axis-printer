@@ -8,12 +8,12 @@ normal 3d printers use 3 axes (x, y, z). a 5-axis printer adds two more rotation
 ## bill of materials (wip)
 
 i’m keeping a list of all the parts i'm using. it’s not final yet.  
-[view the bom](https://1drv.ms/x/c/a3f42e945c9caa44/EbQFKpQWxlxJoD3NqtjWvSIBQ96Bu_KVVyi092GPrF79ng?e=d1bzi9)
+[bom](https://1drv.ms/x/c/a3f42e945c9caa44/EbQFKpQWxlxJoD3NqtjWvSIBQ96Bu_KVVyi092GPrF79ng?e=d1bzi9)
 
 ## build journal
 
 im writing down ideas, issues, and updates as i go.  
-[read the journal](https://github.com/Fastestkyo/5-axis-printer/blob/main/journal.md)
+[journal](https://github.com/Fastestkyo/5-axis-printer/blob/main/journal.md)
 
 ## project status
 
