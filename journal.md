@@ -3,6 +3,7 @@ title: "5 axis printer"
 author: "@karnx"
 description: "3D printer that can print in 5 axes"
 created_at: "2025-5-24"
+total_time: "20.5 hours"
 ---
 # JOURNAL
 
@@ -37,6 +38,10 @@ created_at: "2025-5-24"
 - kinda finished with the [BOM](https://1drv.ms/x/c/a3f42e945c9caa44/EbQFKpQWxlxJoD3NqtjWvSIBQ96Bu_KVVyi092GPrF79ng?e=FsEQ5S).
 - did research on mmu -  [I Made a DIY AMS Using Old 3D Printer Parts](https://www.youtube.com/watch?v=s264WtPAhXw)  [Multicolor 3D Printing For LESS Than $50](https://www.youtube.com/watch?v=Vwb8Z4V4yuk) [4x 3d printer simple MMU design TetraFlow MMU](https://www.youtube.com/watch?v=IvIK14vktVs)
 
-### Day 5: 2025-05-28 (3 hours):
+### Day 5: 2025-05-29 (3 hours):
 - finally finished with the 3d model!
 ![image](https://github.com/user-attachments/assets/b76f9fa2-87ed-4ca0-a9d9-5040453b1264)
+
+### Day 6: 2025-05-30 (5 hours)
+- added 3d printed parts to the github repo! (stl and step). also made a how to guide.
+- Submitted highway form!
