@@ -20,6 +20,10 @@ im writing down ideas, issues, and updates as i go.
 this is a tutorial for how to build this printer.
 [how to](https://docs.google.com/presentation/d/14-imUmjOe8GsNLc_C2gs7DdIq2Uft8Xhfen-554Q0Uw/edit?usp=sharing)
 
+## CAD
+the 3d model of the entire printer.
+i have cad files in the CAD directory, of the printer and the 3d printed parts.
+[cad](https://a360.co/3HxWdIz)
 ## project status
 
 this project is still in progress. i wil be updating the journal.md from time to time
