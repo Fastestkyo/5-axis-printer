@@ -1,6 +1,7 @@
 # 5-axis printer
 
 this is a personal project where im building a 5-axis 3d printer, inspired by multipole’s 5-axis design. after i make the printer. i will try to add a mmu to this
+
 ![image](https://github.com/user-attachments/assets/1437434e-2552-4c10-a3ee-b1c0cc9450fd)
 
 normal 3d printers use 3 axes (x, y, z). a 5-axis printer adds two more rotational axes. this lets it print more complex shapes with fewer supports and smoother surfaces.  
