@@ -16,7 +16,7 @@ btt octopus,4100,1,https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-
 gt2 belt,100,3m,https://robu.in/product/1m-gt2-width-6mm-black-open-timing-belt-for-3d-printer/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWck2hpztmprKl_NOWSym_Any&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rnteePE71f-93Kq6EB_BCQiwaWn9uKFGqMvPK9lkw8SPhbRKnJmB2hoCQtwQAvD_BwE
 endstops (alr have),0,2,-
 wire,99,yes,https://www.amazon.in/dp/B0BVSM7N3L?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-psu 24V, 14.6A, 350W,2800,1,https://robu.in/product/lrs-350-24-mean-well-smps-24v-14-6a-350-4w-metal-power-supply/?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWebZYroxD9Y2gg0hCkFN2ehz&gclid=CjwKCAjw6NrBBhB6EiwAvnT_ru9Bb53pWuHCCsrbxTVMUnLGTfJa2ILZf8PQpFCF4I3S9f0BOI7B0BoCi1oQAvD_BwE
+psu 24V 14.6A 350W,2800,1,https://robu.in/product/lrs-350-24-mean-well-smps-24v-14-6a-350-4w-metal-power-supply/?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWebZYroxD9Y2gg0hCkFN2ehz&gclid=CjwKCAjw6NrBBhB6EiwAvnT_ru9Bb53pWuHCCsrbxTVMUnLGTfJa2ILZf8PQpFCF4I3S9f0BOI7B0BoCi1oQAvD_BwE
 ptfe tube,83,1m,https://robu.in/product/ptfe-2x4mm-teflon-tubing-for-3d-printers-1-75mm-filament-1m/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWck2hpztmprKl_NOWSym_Any&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rtmHoRrpAv8Eg0V2tduSFViNlURJjMMIguM_H0GlgAv3u9t0NjufVhoCjL4QAvD_BwE
 heatbed knob set,550,1,https://www.amazon.in/dp/B088KQJZGZ?ref=ppx_yo2ov_dt_b_fed_asin_title
 aluminium hotend bracket,200,1,https://novo3d.in/e3d-v6-fixed-block/?srsltid=AfmBOoqyDchvfV7eVUtRWugY3-ZiZzQdNxPYCzO2kWgDJ7uAW5NWGPU8KmU
