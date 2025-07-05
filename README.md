@@ -56,13 +56,53 @@ i have cad files in the CAD directory, of the printer and the 3d printed parts.
 [cad](https://a360.co/3HxWdIz)
 
 # INFO
-- the 5 axis printer includes 2 rotational axes. this lets it print with less overhangs.
-## X & Y AXIS
--for this im going to be using the corexy belt xy system. 
-![image](https://github.com/user-attachments/assets/606f7784-0c9a-44cc-a987-2eb4aae31f2f)
 
-## Z AXIS
-- the z axis will be fused with the ab axis, so there are 3 lead screws with 2 linear rails next to them. they will be connected to a 3d printed part which will have a place for a sphere object. 
+
+##fram
+-The frame is made of 2020 aluminium extrusion. Use t slot nuts + corner joining plate and 90 deg joining thing
+-U need the following pieces-
+-500x4
+-460x14
+
+-Total - 8.5m
+![image](https://github.com/user-attachments/assets/4a4da90a-c10d-4663-af95-89834bb4e05a)
+
+
+##linear
+-U need about 4.5 m of linear rail. And 11 mgn12c blocks. Linear rail dimensions are-
+
+-460x3 mm
+-210x3 mm
+-420x5 mm
+![image](https://github.com/user-attachments/assets/2d791bde-b680-41e3-877e-02363f1ae772)
+
+##Lead screw
+-U need 3 lead screws, 425 each. U also need 3 anti backlash nuts
+![image](https://github.com/user-attachments/assets/f01d6b72-4db1-42da-92e9-43d7e8ebcce3)
+
+
+##XY
+-Corexy xy, driven by belts and pulleys. U need 2 16t smooth idler pulleys, and 6 16t idler pulleys. U also need 2 20t pulleys for the motor
+![image](https://github.com/user-attachments/assets/02eb3e9f-4abf-4f00-b3e5-d8d5b8b2e6e0)
+
+
+##toolhead
+-For the toolhead i will use a E3D revo, along with 2 4010 radial fans and a 3010 axial fan
+-[wip]
+
+##motor
+-You will need 2 motors for xy, and 3 motors for z, a and b. And 1 for extruder.
+![image](https://github.com/user-attachments/assets/1e955346-60a9-4c76-bda9-02796d99d67c)
+
+
+##Z, A, B,
+-For z, a, b install the cantilever 3d printer parts to the linear blocks and lead screw. Then install the 210mm linear rail to the cantilever parts. After that install the ball socket joint mount on the linear block of the linear rail which is on the cantilever thing. I will be using a 300x300 mm heatbed for this
+![image](https://github.com/user-attachments/assets/16531fa3-6ca7-4d30-8bc7-4632af7b0425)
+
+
+##electronics
+-I wll be using a bl sensor. The motherboard thing for this will be a btt octopus pro.
+
 
 ## project status
 
