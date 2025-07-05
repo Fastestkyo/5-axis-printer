@@ -1,6 +1,6 @@
 # 5-axis printer
 
-this is a personal project where im building a 5-axis 3d printer, inspired by multipole’s 5-axis design. after i make the printer. i will try to add a mmu to this
+this is a personal project where im building a 5-axis 3d printer, inspired by multipole’s 5-axis design. after i make the printer, i will try to add a mmu to this
 
 ![image](https://github.com/user-attachments/assets/1437434e-2552-4c10-a3ee-b1c0cc9450fd)
 
@@ -54,6 +54,18 @@ this is a tutorial for how to build this printer.
 the 3d model of the entire printer.
 i have cad files in the CAD directory, of the printer and the 3d printed parts.
 [cad](https://a360.co/3HxWdIz)
+
+# INFO
+- the 5 axis printer includes 2 rotational axes. this lets it print with less overhangs.
+## X & Y AXIS
+-for this im going to be using the corexy belt xy system. 
+![image](https://github.com/user-attachments/assets/606f7784-0c9a-44cc-a987-2eb4aae31f2f)
+
+## Z AXIS
+- the z axis will be fused with the ab axis, so there are 3 lead screws with 2 linear rails next to them. they will be connected to a 3d printed part which will have a place for a sphere object. 
+
 ## project status
 
 this project is still in progress. i wil be updating the journal.md from time to time
+
+
