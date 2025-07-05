@@ -11,32 +11,34 @@ normal 3d printers use 3 axes (x, y, z). a 5-axis printer adds two more rotation
 i’m keeping a list of all the parts i'm using. it’s not final yet.  
 [bom](https://1drv.ms/x/c/a3f42e945c9caa44/EbQFKpQWxlxJoD3NqtjWvSIBQ96Bu_KVVyi092GPrF79ng?e=d1bzi9)
 
-Components,Price (inr),Quantity,Link
-2020 extrusion,3000,8.5m,https://novo3d.in/aluminium-profiles-2020/?srsltid=AfmBOoqdCIagKlnxuTtaedS3pP4a6XTQNW1oaKr_tbyDSgIuxD1gO6ok
-linear rail(mgn12c),2080,4.2m,asdasd
-linear rail block (mgn12c),5000,11,asdasd
-nema17hs4401,3700,"5 (6 for extruder, i alr have a spare nema17hs3401)",https://www.amazon.in/dp/B0DGF3VZYT?ref=ppx_yo2ov_dt_b_fed_asin_title
-lead screw,780,3x430,https://robodo.in/products/500mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut?variant=6509949091883&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=21333132684&gbraid=0AAAAADgt3fgfacnF03YdxD4XSVw4cRJ01&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6hUZXDlyQOORjMbXagXSmeQ0HHmxcwlTKKjbhzrPJWkBI8fVZ3T2p8aApnFEALw_wcB
-lead screw anti backlas,261,3,https://www.flyrobo.in/t8-anti-backlash-spring-loaded-nut-for-8mm-threaded-rod-lead-screw-2*2mm?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE9TlyhduK1g3wWyaJ8o6tTjx&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rqO6E8ygFeTIpaMYAl7JqxdPah6UtRfuTD6-MHIPsOd9lzAANheyKxoCuJkQAvD_BwE
-4010 fan,200,2,https://robocraze.com/products/dc-12v-4cm-5010-double-ball-cooling-fan-durable-turbo-blower?variant=46397911433440&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=19018890706&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=19012070097&gbraid=0AAAAADgHQvbdX8bzRd1ziko8N0umsN1_7&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rtijMZkvUky3YPximnWFTQq4PSp7dkfPpFCMUiTPWzVvjjiPNAKDqBoCCoEQAvD_BwE
-e3drevo6,1600,1,https://nl.aliexpress.com/item/1005009068669267.html?spm=a2g0o.productlist.main.1.7457eE3xeE3xU8&algo_pvid=ca61214a-31b7-4a7c-a2c2-e03ada022c65&algo_exp_id=ca61214a-31b7-4a7c-a2c2-e03ada022c65-0&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%214.43%212.86%21%21%214.43%212.86%21%402141122217484094463517624e5ff7%2112000047802984351%21sea%21NL%216305159538%21X&curPageLogUid=PTm0UEvdYOn4&utparam-url=scene%3Asearch%7Cquery_from%3A
-dual gear drive extruder,575,1,https://www.amazon.in/dp/B08BNL96DX?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-16t idler pulley for gt2,360,6,https://www.flyrobo.in/16-tooth-3mm-bore-gt2-timing-idler-aluminum-pulley-for-6mm-belt?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE9TlyhduK1g3wWyaJ8o6tTjx&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rhG19qPk85gXrTVErtzXm_NFOhSnDcTO27QU-LC5iwOuZPk_xn6aIhoCgjQQAvD_BwE
-16t smooth idler pulley for gt2,120,2,https://robocraze.com/products/gt2-perlin-driven-aluminium-pulley-5mm-bore?currency=INR&variant=40193985020057&stkn=c03aaf8845ec&campaignid=20078204115&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=20078217576&gbraid=0AAAAADgHQvZCYtChMptFqybmC-YkK35g2&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rvRl8R_QFPwhpu52ay_ogkH2em8PCIpIOdFVYK3zItRVwqJlasEzphoCLewQAvD_BwE
-nuts and bolts,300,many,https://onlyscrews.in/?utm_source=google&utm_medium=cpc&utm_campaign=search_campaign&utm_term=firstcampaign&gad_source=1&gad_campaignid=22451480113&gbraid=0AAAAA9sP2SSZa4ZLdit7M2lDLvZjC9ScJ&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rkiHoDzSoN6LbCB-yX85fiuDAeYOajTmA2oZFb6YdD9zjotm6rCx_BoC4dYQAvD_BwE
-bl sensor,4000,1,https://novo3d.in/bl-touch/?srsltid=AfmBOooCmJ7s51hNC_waK9-tD0HWvF8ViCbLp604swUMwTHWFPcejddo
-btt octopus,4100,1,https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40144816767074
-gt2 belt,100,3m,https://robu.in/product/1m-gt2-width-6mm-black-open-timing-belt-for-3d-printer/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWck2hpztmprKl_NOWSym_Any&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rnteePE71f-93Kq6EB_BCQiwaWn9uKFGqMvPK9lkw8SPhbRKnJmB2hoCQtwQAvD_BwE
-endstops (alr have),0,2,-
-wire,99,yes,https://www.amazon.in/dp/B0BVSM7N3L?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-psu 24V 14.6A 350W,2800,1,https://robu.in/product/lrs-350-24-mean-well-smps-24v-14-6a-350-4w-metal-power-supply/?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWebZYroxD9Y2gg0hCkFN2ehz&gclid=CjwKCAjw6NrBBhB6EiwAvnT_ru9Bb53pWuHCCsrbxTVMUnLGTfJa2ILZf8PQpFCF4I3S9f0BOI7B0BoCi1oQAvD_BwE
-ptfe tube,83,1m,https://robu.in/product/ptfe-2x4mm-teflon-tubing-for-3d-printers-1-75mm-filament-1m/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWck2hpztmprKl_NOWSym_Any&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rtmHoRrpAv8Eg0V2tduSFViNlURJjMMIguM_H0GlgAv3u9t0NjufVhoCjL4QAvD_BwE
-heatbed knob set,550,1,https://www.amazon.in/dp/B088KQJZGZ?ref=ppx_yo2ov_dt_b_fed_asin_title
-aluminium hotend bracket,200,1,https://novo3d.in/e3d-v6-fixed-block/?srsltid=AfmBOoqyDchvfV7eVUtRWugY3-ZiZzQdNxPYCzO2kWgDJ7uAW5NWGPU8KmU
-coupler 5x8mm,52,3,https://robu.in/product/aluminium-flexible-coupling-coupler-helical-shaft-5mm-x-8mm/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWcEkije48gqY1P5Hdqcfo4zv&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rr0lT69ZgsVrolzYXd3RmTEiRzvONPsRfN8I1GDW-L-OSBJtB4X6qBoCiQ8QAvD_BwE
-tslot nuts for 2020,970,100,https://novo3d.in/sliding-t-nut/
-300x300 heatbed,1600,1,asdasdw124
-TOTAL,32530,,
+| Component                         | Price (INR) | Quantity                                               | Link |
+|-----------------------------------|-------------|--------------------------------------------------------|------|
+| 2020 extrusion                    | 3000        | 8.5m                                                  | [Link](https://novo3d.in/aluminium-profiles-2020/?srsltid=AfmBOoqdCIagKlnxuTtaedS3pP4a6XTQNW1oaKr_tbyDSgIuxD1gO6ok) |
+| linear rail (mgn12c)             | 2080        | 4.2m                                                  | asdasd |
+| linear rail block (mgn12c)       | 5000        | 11                                                    | asdasd |
+| nema17hs4401                     | 3700        | 5 (6 for extruder, I already have a spare nema17hs3401) | [Link](https://www.amazon.in/dp/B0DGF3VZYT?ref=ppx_yo2ov_dt_b_fed_asin_title) |
+| lead screw                       | 780         | 3x430                                                 | [Link](https://robodo.in/products/500mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut?variant=6509949091883) |
+| lead screw anti-backlash        | 261         | 3                                                     | [Link](https://www.flyrobo.in/t8-anti-backlash-spring-loaded-nut-for-8mm-threaded-rod-lead-screw-2*2mm) |
+| 4010 fan                         | 200         | 2                                                     | [Link](https://robocraze.com/products/dc-12v-4cm-5010-double-ball-cooling-fan-durable-turbo-blower?variant=46397911433440) |
+| e3d revo6                        | 1600        | 1                                                     | [Link](https://nl.aliexpress.com/item/1005009068669267.html) |
+| dual gear drive extruder        | 575         | 1                                                     | [Link](https://www.amazon.in/dp/B08BNL96DX?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
+| 16t idler pulley for GT2        | 360         | 6                                                     | [Link](https://www.flyrobo.in/16-tooth-3mm-bore-gt2-timing-idler-aluminum-pulley-for-6mm-belt) |
+| 16t smooth idler pulley for GT2 | 120         | 2                                                     | [Link](https://robocraze.com/products/gt2-perlin-driven-aluminium-pulley-5mm-bore?currency=INR&variant=40193985020057) |
+| nuts and bolts                  | 300         | many                                                  | [Link](https://onlyscrews.in/) |
+| BL sensor                        | 4000        | 1                                                     | [Link](https://novo3d.in/bl-touch/) |
+| BTT Octopus                      | 4100        | 1                                                     | [Link](https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40144816767074) |
+| GT2 belt                         | 100         | 3m                                                    | [Link](https://robu.in/product/1m-gt2-width-6mm-black-open-timing-belt-for-3d-printer/) |
+| endstops (already have)          | 0           | 2                                                     | - |
+| wire                             | 99          | yes                                                   | [Link](https://www.amazon.in/dp/B0BVSM7N3L?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
+| PSU 24V 14.6A 350W               | 2800        | 1                                                     | [Link](https://robu.in/product/lrs-350-24-mean-well-smps-24v-14-6a-350-4w-metal-power-supply/) |
+| PTFE tube                        | 83          | 1m                                                    | [Link](https://robu.in/product/ptfe-2x4mm-teflon-tubing-for-3d-printers-1-75mm-filament-1m/) |
+| heatbed knob set                 | 550         | 1                                                     | [Link](https://www.amazon.in/dp/B088KQJZGZ?ref=ppx_yo2ov_dt_b_fed_asin_title) |
+| aluminium hotend bracket         | 200         | 1                                                     | [Link](https://novo3d.in/e3d-v6-fixed-block/?srsltid=AfmBOoqyDchvfV7eVUtRWugY3-ZiZzQdNxPYCzO2kWgDJ7uAW5NWGPU8KmU) |
+| coupler 5x8mm                    | 52          | 3                                                     | [Link](https://robu.in/product/aluminium-flexible-coupling-coupler-helical-shaft-5mm-x-8mm/) |
+| T-slot nuts for 2020            | 970         | 100                                                   | [Link](https://novo3d.in/sliding-t-nut/) |
+| 300x300 heatbed                 | 1600        | 1                                                     | asdasdw124 |
+| **TOTAL**                        | **32530**   |                                                        |      |
+
 
 ## build journal
 
